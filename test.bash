@@ -2,4 +2,4 @@
 
 echo "Pierwszy"
 
-echo "Drugi"
+echo "cokolwiek innego"
